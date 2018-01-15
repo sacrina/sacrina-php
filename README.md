@@ -5,12 +5,8 @@
 Sacrina PHP SDK runs PHP 5.6 or higher with cURL module enabled.
 
 ## Installation
-
-Install using composer:
-
-    composer require sacrinasdk
     
-You can also use it without composer by cloning the repo.
+You can install and use it by cloning the repo.
 
     sudo git clone https://github.com/sacrina/sacrina-php.git
     
