@@ -18,7 +18,7 @@ Then include the init.php file in your script.
 
 Register for Sacrina account and get your key. The use:
 
-    require_once 'sacrina-php/index.php';
+    require_once 'sacrina-php/init.php';
     $sacrinasdk = new sacrinasdk();
     $sacrinasdk->add_key('your API key');
 
