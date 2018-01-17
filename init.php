@@ -1,4 +1,4 @@
 
 <?php
 // Initialize sacrinasdk
-require(dirname(__FILE__) . '/lib/sacrinasdk.php');
+require(dirname(__FILE__) . '/src/sacrina/sacrinarest.php');
