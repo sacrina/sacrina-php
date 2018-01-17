@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Class sacrinasdk
+ * Class sacrinarest
  */
-class sacrinasdk
+class sacrinarest
 {
     public $key = null;
     public $dataset = [];
