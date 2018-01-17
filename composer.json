@@ -1,0 +1,19 @@
+{
+    "name": "sacrina/sacrina",
+    "description": "PHP library for Sacrina API",
+    "type": "PHP",
+    "require": {
+        "curl/curl": "^1.8"
+    },
+    "require-dev": {
+        "curl/curl": "^1.8"
+    },
+    "license": "Sacrina License",
+    "authors": [
+        {
+            "name": "S.S.Hussain",
+            "email": "contact@sacrina.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
